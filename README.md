@@ -5,10 +5,10 @@
 [cite_start]I’m a 4th-year student at **ESI Alger** specializing in **Intelligent Systems and Data**[cite: 4, 6]. [cite_start]I focus on bridging the gap between complex AI modeling and scalable full-stack systems to solve concrete problems[cite: 5, 39].
 
 - 🚀 **Currently Building:** **CultivApp**, a general culture and news application designed to streamline information flow.
-- [cite_start]🔬 **Exploring:** Natural Language Processing (NLP), Computer Vision, and competing in **Kaggle** competitions[cite: 6].
-- [cite_start]🏆 **Datathon & Hackathon Enthusiast:** Award-winning developer (Dev'Fest - AI for Business) [cite: 14, 16] [cite_start]and active participant in competitive coding challenges[cite: 25, 54].
-- [cite_start]🤝 **I’m looking to collaborate on:** Open-source AI projects and Data-driven industrial solutions[cite: 39].
-- [cite_start]📫 **How to reach me:** [mb_moussous@esi.dz](mailto:mb_moussous@esi.dz) [cite: 2, 37]
+- 🔬 **Exploring:** Natural Language Processing (NLP), Computer Vision, and competing in **Kaggle** competitions[cite: 6].
+- 🏆 **Datathon & Hackathon Enthusiast:** Award-winning developer (Dev'Fest - AI for Business) [cite: 14, 16] [cite_start]and active participant in competitive coding challenges[cite: 25, 54].
+- 🤝 **I’m looking to collaborate on:** Open-source AI projects and Data-driven industrial solutions[cite: 39].
+- 📫 **How to reach me:** [mb_moussous@esi.dz](mailto:mb_moussous@esi.dz) [cite: 2, 37]
 
 ---
 
