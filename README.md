@@ -2,13 +2,13 @@
 
 ### 🧠 Intelligent Systems & Data Engineering Student | AI Solutions Architect
 
-I’m a 4th-year student at **ESI Alger** specializing in **Intelligent Systems and Data**. I focus on bridging the gap between complex AI modeling and scalable full-stack systems to solve concrete problems.
+[cite_start]I’m a 4th-year student at **ESI Alger** specializing in **Intelligent Systems and Data**[cite: 4, 39]. [cite_start]I focus on bridging the gap between complex AI modeling and scalable full-stack systems to solve concrete problems[cite: 5, 45].
 
 - 🚀 **Currently Building:** **CultivApp**, a general culture and news application designed to streamline information flow.
-- 🔬 **Exploring:** Natural Language Processing (NLP), Computer Vision, and competing in **Kaggle** competitions.
-- 🏆 **Datathon & Hackathon Enthusiast:** Award-winning developer (Dev'Fest - AI for Business) and active participant in competitive coding challenges.
+- [cite_start]🔬 **Exploring:** Natural Language Processing (NLP), Computer Vision[cite: 6, 22], and competing in **Kaggle** competitions.
+- [cite_start]🏆 **Datathon & Hackathon Enthusiast:** Award-winning developer (Dev'Fest - AI for Business) [cite: 14, 16] and active participant in competitive coding challenges.
 - 🤝 **I’m looking to collaborate on:** Open-source AI projects and Data-driven industrial solutions.
-- 📫 **How to reach me:** [mb_moussous@esi.dz](mailto:mb_moussous@esi.dz)
+- [cite_start]📫 **How to reach me:** [mb_moussous@esi.dz](mailto:mb_moussous@esi.dz) [cite: 2, 37]
 
 ---
 
@@ -62,9 +62,11 @@ I’m a 4th-year student at **ESI Alger** specializing in **Intelligent Systems 
 
 ### 📊 GitHub Stats
 
-![Billel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moussous-billel&show_icons=true&theme=tokyonight&hide_border=true" alt="Billel's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moussous-billel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
